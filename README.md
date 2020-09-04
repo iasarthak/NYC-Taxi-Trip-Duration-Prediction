@@ -1,4 +1,4 @@
-# Projects
+# NYC Taxi Trip Duration Prediction
 
-Here, I will post my work on the datasets that I have worked on and will be working in the future.
-All of these will be done in Jupyter Notebooks.
+This project is still in progress as I am learning new models to make my predictions better.
+Soon, we shall have the optimum fit.
