@@ -1,0 +1,57 @@
+Factors influencing taxi trip Duration!
+Taxi Features:
+1) Taxi with lesser than 5 seats are used for shorter duration.(compact,sedan,luxury)
+2)taxis in good condition are likely to be used for longer duration trips
+3)Taxis in bad condition are likely to take longer duration than average duration for shorter trips as well.
+4)hatchback cars take lesser time to commute through traffic than that of XUV's and sedans types
+
+Driver & passenger details:
+1)Driver new to the city might take longer duration to reach destination
+2)Driver with less driving experience will taker longer travel time.
+3)IF older ppl or pregnent women are in the passenger seat then taxis tend to go slow
+4)If the driver is new to driving or car is new the tend to go slower.
+5)Age of the driver and the duration?
+6)car polling!yes or no?
+
+Time based features:
+1)early morning trip duration would take lesser time than avg time travel for the day.
+2)evening to night could be peak hours and could take longer time.
+
+Day of the week:
+1)Weekdays may be used for shorter trips to commute to office or public transport
+2)Weekends may be used for longer trips to commute to outstations nearby.
+
+
+
+Traffic and condition of roads:
+1)if the condition of road is good,then travel time is less
+2)could take longer time for short trips with traffic during peak time
+
+Weather:
+1)If there is rain or storm,travel time might be high.
+2)higher demand is during sunny and cooler days
+
+Distance to destination:
+1)distance between the pick up point and drop point ?
+2)within city or outside city which takes longer duration ?
+3)location of pick up point, if its a narrow road
+
+Holiday or not:
+1)if the holiday falls a day before weekend,there might be demand for longer distance travel.
+2)Public holidays would tend to take lesser commute time(AID).
+3)Holiday seasons tend to have lesser traffic and commute time(christmas,Thanksgiving,Easter)
+
+
+
+
+
+
+
+
+
+
+                                      end
+
+
+
+
